@@ -1,7 +1,7 @@
 {
-  "name": "tailorbird",
+  "name": "boilerplate",
+  "description": "Fill In
   "version": "0.0.1",
-  "description": "A powerfull tool for doing inline styles and themes in React.",
   "main": "./lib/index.js",
   "scripts": {
     "build": "babel src --out-dir lib",
@@ -13,14 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gregthebusker/tailorbird.git"
+    "url": "git+https://github.com/gregthebusker/<Fill In>"
   },
   "author": "Greg Schechter",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gregthebusker/tailorbird/issues"
-  },
-  "homepage": "https://github.com/gregthebusker/tailorbird#readme",
   "dependencies": {
     "babel": "^6.0.15",
     "babel-core": "^6.1.4",
