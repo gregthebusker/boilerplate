@@ -21,7 +21,7 @@
   "dependencies": {
     "babel": "^6.1.18",
     "babel-cli": "^6.2.0",
-    "babel-core": "^6.1.21",
+    "babel-core": "^6.2.1",
     "babel-loader": "^6.1.0",
     "babel-plugin-transform-react-constant-elements": "^6.1.4",
     "babel-plugin-transform-react-inline-elements": "^6.1.4",
