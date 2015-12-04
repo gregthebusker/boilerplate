@@ -20,7 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "babel": "^6.1.18",
-    "babel-cli": "^6.2.0",
+    "babel-cli": "^6.3.13",
     "babel-core": "^6.3.2",
     "babel-loader": "^6.1.0",
     "babel-plugin-transform-react-constant-elements": "^6.1.20",
