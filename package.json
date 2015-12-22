@@ -30,7 +30,7 @@
     "babel-preset-stage-1": "^6.3.13",
     "hoist-non-react-statics": "^1.0.3",
     "radium": "^0.15.3",
-    "webpack": "^1.12.4",
+    "webpack": "^1.12.9",
     "webpack-config-merger": "0.0.3"
   },
   "devDependencies": {
