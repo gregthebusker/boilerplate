@@ -19,7 +19,7 @@
   "author": "Greg Schechter",
   "license": "MIT",
   "dependencies": {
-    "babel": "^6.3.13",
+    "babel": "^6.3.26",
     "babel-cli": "^6.3.17",
     "babel-core": "^6.3.21",
     "babel-loader": "^6.1.0",
