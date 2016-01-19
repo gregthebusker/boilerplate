@@ -31,7 +31,7 @@
     "hoist-non-react-statics": "^1.0.3",
     "radium": "^0.16.0",
     "webpack": "^1.12.10",
-    "webpack-config-merger": "^0.0.3"
+    "webpack-config-merger": "^0.0.5"
   },
   "devDependencies": {
     "babel-jest": "^6.0.1",
