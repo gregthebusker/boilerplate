@@ -29,7 +29,7 @@
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-1": "^6.3.13",
     "hoist-non-react-statics": "^1.0.3",
-    "radium": "^0.16.0",
+    "radium": "^0.16.4",
     "webpack": "^1.12.10",
     "webpack-config-merger": "^0.0.3"
   },
