@@ -28,7 +28,7 @@
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
     "babel-preset-stage-1": "^6.3.13",
-    "hoist-non-react-statics": "^1.0.3",
+    "hoist-non-react-statics": "^1.0.5",
     "radium": "^0.16.0",
     "webpack": "^1.12.10",
     "webpack-config-merger": "^0.0.3"
